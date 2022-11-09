@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lab07" />
+        <module name="lab08-gui" />
+        <module name="lab08-cli" />
+        <module name="lab08-engine" />
       </profile>
     </annotationProcessing>
   </component>
